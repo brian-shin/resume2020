@@ -1,0 +1,11 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+.circle_box{
+  width: 100px;
+  height: 100px;
+  border: 10px solid black;
+  border-radius:100%;
+}
